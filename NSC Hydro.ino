@@ -21,10 +21,6 @@
 //     -
 //************************************************************************************/
 //
-// LICENSE:
-//   This document is licensed under the Creative Commons Attribution-NonCommercial-NoDervis 3.0 Unported
-//   (CC BY-NC-ND 3.0)
-//
 // LEGAL DISCLAIMER:
 //   Growtek Hydroponics Controller v.1.0, Copyright 2015-2016 Nick J Penna.
 //   I'm providing this program as free software with the sole intent on furthering
