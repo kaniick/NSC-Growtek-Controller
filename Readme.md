@@ -9,5 +9,10 @@
   Software Foundation version 3 of the License, or (at your option) any later
   version.  However if you intend on using the program (either in its entirety or any
   part of it) in any way, shape, or form for PROFIT, you MUST contact me and obtain
-  my EXPRESS WRITTEN CONSENT (contact information is provided above).
+  my EXPRESS WRITTEN CONSENT (contact information is provided Below).
   VIOLATORS WILL BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW.
+
+####Developer Contact Information:
+   Twitter: Kaniick<br>
+   Website: www.kaniick.com
+   
